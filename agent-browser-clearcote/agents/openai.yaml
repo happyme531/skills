@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Browser + Clearcote"
+  short_description: "使用全局 Clearcote 浏览器执行 agent-browser 自动化"
+  default_prompt: "使用 $agent-browser-clearcote 通过 Clearcote 浏览器完成当前网页任务。"

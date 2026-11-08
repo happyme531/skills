@@ -1,0 +1,4 @@
+interface:
+  display_name: "BTW"
+  short_description: "Expand btw-prefixed questions in detail"
+  default_prompt: "Use $btw to answer a btw-prefixed user message in detail, then resume the prior task."

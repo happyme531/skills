@@ -1,0 +1,3 @@
+interface:
+  display_name: "Agent History Search"
+  short_description: "Search full local coding agent conversations"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Skill Issue Reporter"
+  short_description: "记录 skill 疑似问题，工作结束后集中提示"

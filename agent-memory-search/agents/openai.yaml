@@ -1,0 +1,3 @@
+interface:
+  display_name: "Agent Memory Search"
+  short_description: "Search memories across four coding agents"
